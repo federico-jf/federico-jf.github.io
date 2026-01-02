@@ -14,6 +14,7 @@ permalink: /about/
 
 ### Interests
 + Program Evaluation
++ Psychometrics
 + Education Policy
 + Technologies and Governance
 + Decision-Making processes
@@ -22,4 +23,4 @@ permalink: /about/
 + Digital Humanities
 
 ### Contact me
-[fferrero@dallasisd.org](mailto:fferrero@dallasisd.org)
+[federicojferrero@gmail.com](mailto:federicojferrero@gmail.com)
