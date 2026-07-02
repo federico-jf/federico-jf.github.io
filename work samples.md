@@ -10,21 +10,22 @@ permalink: /work samples/
   + [Differential Item Functioning (DIF) Analysis Using Mantel–Haenszel Method](https://rpubs.com/fferrero/1384487)
   + [Classical Test Theory (CTT) Item Analysis Using R (psych package)](https://rpubs.com/fferrero/CTT_Item_Analysis)
     
-#### Knowledge Mining
-  + [Bibliographic mapping with SciMAT](https://federico-jf.github.io/work_samples/Final Report Federico Ferrero (EPPS 6302).pdf)
-  + [Bibliographic mapping about Artificial Intelligence in Education](https://federico-jf.github.io/work_samples/EPPS 6302 Presentation Federico Ferrero.pdf)
-  + [Seminar: Text Mining techniques for bibliographic mapping (Spanish)](https://federico-jf.github.io/work_samples/Técnicas de Text Mining para mapeos bibliográficos.pdf)
-  + ["Prediction" in educational research: a bibliographic mapping of academic production over time](https://federico-jf.github.io/work_samples/Paper Mapping Prediction and Education.pdf)
-  + [Text mining with R: Sentiment Analysis exercises & Social Network Analysis](https://github.com/federico-jf/Data-Visualization-UTD-EPPS-6356/blob/master/code_final_presentation.R)
+#### Research Analytics & Knowledge Discovery
+  + [Bibliometric Analysis Using SciMAT](https://federico-jf.github.io/work_samples/Final Report Federico Ferrero (EPPS 6302).pdf)
+  + [Bibliometric Analysis of Artificial Intelligence in Education](https://federico-jf.github.io/work_samples/EPPS 6302 Presentation Federico Ferrero.pdf)
+  + [Text Mining Techniques for Bibliometric Mapping (Seminar)](https://federico-jf.github.io/work_samples/Técnicas de Text Mining para mapeos bibliográficos.pdf)
+  + ["Prediction" in Educational Research: a Bibliographic Mapping of Academic Production over Time](https://federico-jf.github.io/work_samples/Paper Mapping Prediction and Education.pdf)
+  + [Text Mining & Social Network Analysis in R (Sentiment Analysis Applications)](https://github.com/federico-jf/Data-Visualization-UTD-EPPS-6356/blob/master/code_final_presentation.R)
   + [Knowledge Mining - UTD exercises and assignments](https://federico-jf.github.io/Knowledge-Mining/)
-  + [Academic Analytics: Predictions around Argentine “Aprender” National Evaluation](https://federico-jf.github.io/work_samples/federicoferrero_final_project.pdf)
   
-#### Regression Analysis
-  + [Regression Analysis Paper](https://federico-jf.github.io/work_samples/Final_Paper_Ferrero.pdf)
-  + [Regression Analysis Paper: replication code ~ R](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/Replication_code_ferrero.R)
-  + [Interaction effects: code ~ R](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/homework3_ff.R) 
-  + [Multicollinearity assessment: code ~ R](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/homework4_federico_ferrero.R)
-  + [Methods for avoiding missing data / Logistic regression: code ~ R](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/Homework_5_Ferrero.R)
+#### Statistical Modeling & Predictive Analytics
+  + [Applied Regression Analysis (Research Paper)](https://federico-jf.github.io/work_samples/Final_Paper_Ferrero.pdf)
+  + [Reproducible Regression Analysis in R (Replication Study)](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/Replication_code_ferrero.R)
+  + [Interaction Effects in Regression Models (R Analysis)](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/homework3_ff.R) 
+  + [Multicollinearity Diagnostics in Regression Models with R](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/homework4_federico_ferrero.R)
+  + [Missing Data Handling & Logistic Regression Applications in R](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/Homework_5_Ferrero.R)
+  + [Predictive Modeling of National Assessment Data (Educational Outcomes)](https://federico-jf.github.io/work_samples/federicoferrero_final_project.pdf)
+
 
 #### Data Visualization and Social Network Analysis
 + [Social Network Analysis and the #AlevelResults Case: Discussions around the Use of Algorithms to Evaluate Students](https://federico-jf.github.io/work_samples/PSCI7381_FinalPaper_SP21_Federico_Ferrero.pdf)
