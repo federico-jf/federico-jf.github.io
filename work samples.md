@@ -34,7 +34,7 @@ permalink: /work samples/
   + [Text Mining & Social Network Analysis in R (Sentiment Analysis Applications)](https://github.com/federico-jf/Data-Visualization-UTD-EPPS-6356/blob/master/code_final_presentation.R)
   + [Knowledge Mining Labs - University of Texas at Dallas](https://federico-jf.github.io/Knowledge-Mining/)
   
-#### Geospatial Analytics Geographic Information Systems
+#### Geospatial Analytics & Geographic Information Systems
   + [ArcGIS Pro](https://federico-jf.github.io/work_samples/all_labs.pdf)
   + [Geospatial Data Visualization and Map Construction in R (Tutorial)](https://rpubs.com/fferrero/1286508)
  
