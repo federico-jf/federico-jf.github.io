@@ -44,8 +44,3 @@ permalink: /work samples/
    
 #### Survey Design & Measurement
   + [Qualtrics](https://federico-jf.github.io/work_samples/Ferrero_Final_Paper.pdf)
-
-#### Publications
-  + [Doctoral Dissertation (Educational Technology & Learning Sciences)](https://ffyh.unc.edu.ar/secyt/wp-content/uploads/sites/22/2019/04/EBOOK_FERRERO.pdf)
-  + [Academia.edu](https://cordoba.academia.edu/FedericoFerrero)
-
