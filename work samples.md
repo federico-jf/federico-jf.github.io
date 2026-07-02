@@ -16,7 +16,7 @@ permalink: /work samples/
   + [Text Mining Techniques for Bibliometric Mapping (Seminar)](https://federico-jf.github.io/work_samples/Técnicas de Text Mining para mapeos bibliográficos.pdf)
   + ["Prediction" in Educational Research: a Bibliographic Mapping of Academic Production over Time](https://federico-jf.github.io/work_samples/Paper Mapping Prediction and Education.pdf)
   + [Text Mining & Social Network Analysis in R (Sentiment Analysis Applications)](https://github.com/federico-jf/Data-Visualization-UTD-EPPS-6356/blob/master/code_final_presentation.R)
-  + [Knowledge Mining - UTD exercises and assignments](https://federico-jf.github.io/Knowledge-Mining/)
+  + [Knowledge Mining Labs - University of Texas at Dallas](https://federico-jf.github.io/Knowledge-Mining/)
   
 #### Statistical Modeling & Predictive Analytics
   + [Applied Regression Analysis (Research Paper)](https://federico-jf.github.io/work_samples/Final_Paper_Ferrero.pdf)
@@ -25,26 +25,27 @@ permalink: /work samples/
   + [Multicollinearity Diagnostics in Regression Models with R](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/homework4_federico_ferrero.R)
   + [Missing Data Handling & Logistic Regression Applications in R](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/Homework_5_Ferrero.R)
   + [Predictive Modeling of National Assessment Data (Educational Outcomes)](https://federico-jf.github.io/work_samples/federicoferrero_final_project.pdf)
+  + [Regression Discontinuity Design (RDD) for Program Evaluation](https://rpubs.com/fferrero/1388095)
 
 
-#### Data Visualization and Social Network Analysis
+#### Data Visualization & Social Network Analysis
 + [Social Network Analysis and the #AlevelResults Case: Discussions around the Use of Algorithms to Evaluate Students](https://federico-jf.github.io/work_samples/PSCI7381_FinalPaper_SP21_Federico_Ferrero.pdf)
 + [Social Network Analysis & R code: descriptive, visualizations, and ERGM)](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/SNA_code.R)
-+ [#AlevelResults Case: Visualizing Social Networks from Twitter](https://federico-jf.github.io/work_samples/EPPS 6356 Final presentation Federico Ferrero.pdf)
++ [Twitter Network Visualization of Educational Policy Discussions](https://federico-jf.github.io/work_samples/EPPS 6356 Final presentation Federico Ferrero.pdf)
 + [Gephi](https://federico-jf.github.io/work_samples/Gephi_graphs.pdf)
 + [Tableau](https://federico-jf.github.io/work_samples/Tableau_samples_Ferrero.pdf)
    
-#### Survey Research
+#### Survey Design & Measurement
   + [Qualtrics](https://federico-jf.github.io/work_samples/Ferrero_Final_Paper.pdf)
  
-#### Geographic Information Systems
+#### Geospatial Analytics & Geographic Information Systems (GIS)
   + [ArcGIS Pro](https://federico-jf.github.io/work_samples/all_labs.pdf)
 
-#### Relational Databases and SQL
-  + [Open University relational database design and analysis ~ SQL](https://federico-jf.github.io/work_samples/Final paper Federico Ferrero.pdf)
-  + [Udacity Final Assignment ~ SQL](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/Trabajo_final_sql.sql)
+#### Relational Databases & SQL
+  + [Relational Database Design & SQL Analysis (Open University Project)](https://federico-jf.github.io/work_samples/Final paper Federico Ferrero.pdf)
+  + [USQL Data Analysis Project (Udacity)](https://github.com/federico-jf/federico-jf.github.io/blob/master/work_samples/Trabajo_final_sql.sql)
 
 #### Publications
-  + [Doctoral dissertation](https://ffyh.unc.edu.ar/secyt/wp-content/uploads/sites/22/2019/04/EBOOK_FERRERO.pdf)
+  + [Doctoral Dissertation (Educational Technology & Learning Sciences)](https://ffyh.unc.edu.ar/secyt/wp-content/uploads/sites/22/2019/04/EBOOK_FERRERO.pdf)
   + [Academia.edu](https://cordoba.academia.edu/FedericoFerrero)
 
