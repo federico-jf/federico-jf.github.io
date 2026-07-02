@@ -3,12 +3,12 @@ layout: page
 title:
 permalink: /work samples/
 ---
-#### Psychometric Modeling and Analysis
-  + [Item Response Theory Practice with R: a Tutorial](https://rpubs.com/fferrero/IRT_Tutorial)
-  + [Linking and Equating Test Forms with IRT: A data2pl Example](https://rpubs.com/fferrero/1384820)
-  + [Computarized Adaptive Testing (CAT) with R: a Tutorial](https://rpubs.com/fferrero/CAT_tutorial)
-  + [DIF Analysis in R: Mantel–Haenszel Approach](https://rpubs.com/fferrero/1384487)
-  + [Classical Test Theory (CTT) Item Analysis in R: using ‘psych’ package](https://rpubs.com/fferrero/CTT_Item_Analysis)
+#### Psychometrics & Educational Measurement
+  + [Item Response Theory (IRT) Modeling in R: Applied Tutorial](https://rpubs.com/fferrero/IRT_Tutorial)
+  + [Test Equating and Linking Using IRT Models (data2pl implementation)](https://rpubs.com/fferrero/1384820)
+  + [Computerized Adaptive Testing (CAT) Simulation in R](https://rpubs.com/fferrero/CAT_tutorial)
+  + [Differential Item Functioning (DIF) Analysis Using Mantel–Haenszel Method](https://rpubs.com/fferrero/1384487)
+  + [Classical Test Theory (CTT) Item Analysis Using R (psych package)](https://rpubs.com/fferrero/CTT_Item_Analysis)
     
 #### Knowledge Mining
   + [Bibliographic mapping with SciMAT](https://federico-jf.github.io/work_samples/Final Report Federico Ferrero (EPPS 6302).pdf)
