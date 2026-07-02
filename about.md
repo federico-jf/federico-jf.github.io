@@ -12,7 +12,7 @@ I have over 9 years of experience in educational research and applied data scien
 
 Technically, I work with Python, R, SQL, and SPSS to build reproducible analytical workflows, conduct statistical modeling, design surveys (Qualtrics), and develop data visualizations and dashboards (Power BI, Tableau, Qualtrics). My methodological training includes causal inference, experimental and quasi-experimental evaluation, regression analysis, clustering, and mixed-methods research, including grounded theory and qualitative analysis of open-ended data.
 
-My research and applied work focus on using data to improve educational systems and student outcomes, with an emphasis on ethical, transparent, and human-centered analytics that support improved engagement, retention, and educationalequity.*
+My research and applied work focus on using data to improve educational systems and student outcomes, with an emphasis on ethical, transparent, and human-centered analytics that support improved engagement, retention, and educational equity.*
 
 ### Education
 + Ph.D. in Education (National University of Cordoba, Argentina) (2016)
