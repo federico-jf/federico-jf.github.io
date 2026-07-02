@@ -40,6 +40,7 @@ permalink: /work samples/
  
 #### Geospatial Analytics & Geographic Information Systems (GIS)
   + [ArcGIS Pro](https://federico-jf.github.io/work_samples/all_labs.pdf)
+  + [Geospatial Data Visualization and Map Construction in R (Tutorial)](https://rpubs.com/fferrero/1286508)
 
 #### Relational Databases & SQL
   + [Relational Database Design & SQL Analysis (Open University Project)](https://federico-jf.github.io/work_samples/Final paper Federico Ferrero.pdf)
